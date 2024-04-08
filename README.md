@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-#🔭 I’m currently working on NILM (Non-Intrusive Load Monitoring)
-#🌱 I’m currently learning to contribute in open source projects
-#👯 I’m looking to collaborate on Real world ML projects
+-🔭 I’m currently working on NILM (Non-Intrusive Load Monitoring)
+-🌱 I’m currently learning to contribute in open source projects
+-👯 I’m looking to collaborate on Real world ML projects
 
 
 <!--
